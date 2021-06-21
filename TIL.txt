@@ -1,0 +1,10 @@
+Today I Learned
+
+Aula_1:
+* Apresentação do projeto NLW Valoriza, tendo como principal novidade implementação de geração de tokens com JWT.
+* Breve, mas importantíssima introdução/resumo do mundo "Node.JS", sua criação, vantangens e utilização. Assim com também introduzindo aspectos e conceitos extremamente relevantes no desenvolvimento Backend Node.Js como API.
+*Criação de projeto com ferramentas/tecnologias base, junto com implementação de Typescript e "Express.j".
+
+OBS: Aula introdutória, bastante completa e sólida em bases.
+
+-------------------------------------------------------------------------------------------------------
