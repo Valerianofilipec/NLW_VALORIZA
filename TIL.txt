@@ -8,3 +8,10 @@ Aula_1:
 OBS: Aula introdutória, bastante completa e sólida em bases.
 
 -------------------------------------------------------------------------------------------------------
+
+Aula_2:
+*Métodos HTTP (get, put, post, delete)
+*Arquitetura de desenvolvimento MVC
+* Raw SQL(Drivers) vs Query Builder vs ORM
+*TypeORM -Migrations, Entity, Repository
+*Services (separando responsabilidades da aplicação)
