@@ -15,3 +15,10 @@ Aula_2:
 * Raw SQL(Drivers) vs Query Builder vs ORM
 *TypeORM -Migrations, Entity, Repository
 *Services (separando responsabilidades da aplicação)
+
+-------------------------------------------------------------------------------------------------------
+
+Aula_3:
+*Tratamento de Exceções('erros')
+*Middleware com/no express.js 
+*Criação da Estrutura 'Tag' (Migration -> Entity -> Repository -> Service -> Controller)
