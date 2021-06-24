@@ -22,3 +22,11 @@ Aula_3:
 *Tratamento de Exceções('erros')
 *Middleware com/no express.js 
 *Criação da Estrutura 'Tag' (Migration -> Entity -> Repository -> Service -> Controller)
+
+-------------------------------------------------------------------------------------------------------
+
+Aula_4:
+*Adicionar nova coluna à uma tabela existente (coluna: password, tabela:user)
+*Criptografia da password, usando a dependência/biblioteca bcryptjs
+*Autenticação- introdução ao JWT (json web token)
+*Criação da Estrutura 'Compliment' (Migration -> Entity -> Repository -> Service -> Controller)
